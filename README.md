@@ -1,3 +1,3 @@
 # kingbling
-반짝반짝 뚜리미의 보석함에 초대합니다 짝짝
+보석 도매 판매 사이트입니다!
 "# web-jewelryShop" 
